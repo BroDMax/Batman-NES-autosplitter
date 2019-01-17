@@ -3,8 +3,8 @@
 The autosplitter for [LiveSplit](https://github.com/LiveSplit/LiveSplit/releases) of game Batman: The Video Game (NES)
 
 ## Required Emulators
-- [x] FCEUX v2.2.3 [Download](http://www.fceux.com/web/download.html/)
-- [x] Nestopia v1.40 [Download](http://nestopia.sourceforge.net/downloads.html/)
+- [x] FCEUX v2.2.3 [Download](http://www.fceux.com/web/download.html)
+- [x] Nestopia v1.40 [Download](http://nestopia.sourceforge.net/downloads.html)
 - [ ] BizHawk _(not supported yet)_
 
 ## Installing
