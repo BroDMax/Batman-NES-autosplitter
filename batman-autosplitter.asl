@@ -74,7 +74,7 @@ split
     
     if (settings["lvl31"] && current.Level == 14 && old.EndStage == 0x12 && current.EndStage == 0x02) return true;
     if (settings["lvl32"] && current.Level == 16 && old.EndStage == 0x12 && current.EndStage == 0x02) return true;
-    if (settings["lvl33"] && current.Level == 18 && old.EndStage == 0x12 && current.NewEndStag83e == 0x02) return true;
+    if (settings["lvl33"] && current.Level == 18 && old.EndStage == 0x12 && current.NewEndStage == 0x02) return true;
     if (settings["lvl34"] && current.Level == 20 && old.BossHP >= 0 && current.BossHP < 0) return true;
     
     if (settings["lvl41"] && current.Level == 22 && old.EndStage == 0x12 && current.EndStage == 0x02) return true;
@@ -83,7 +83,7 @@ split
     if (settings["lvl44"] && current.Level == 28 &&
         (((old.BossHP > 0x40) && (old.BossHP2 >= 0 && current.BossHP2 < 0)) ||
         ((old.BossHP2 > 0x40) && (old.BossHP >= 0 && current.BossHP < 0))))
-        return true;
+        return trueж
         
     if (settings["lvl51"] && current.Level == 30 && old.EndStage == 0x12 && current.EndStage == 0x02) return true;
     if (settings["lvl52"] && current.Level == 32 && old.BossHP >= 0 && current.BossHP < 0) return true;
