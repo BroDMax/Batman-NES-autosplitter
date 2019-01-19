@@ -6,6 +6,7 @@ The autosplitter for [LiveSplit](https://github.com/LiveSplit/LiveSplit/releases
 - [x] FCEUX v2.2.3 [Download](http://www.fceux.com/web/download.html)
 - [x] Nestopia v1.40 [Download](http://nestopia.sourceforge.net/downloads.html)
 - [ ] BizHawk _(not supported yet)_
+- [x] Mednafen v1.21.3 _(need to test)_ [Download](https://mednafen.github.io/)
 
 ## Installing
 1. Download [ASL file](https://github.com/BroDMax/Batman-NES-autosplitter/archive/master.zip)
