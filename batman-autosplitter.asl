@@ -83,7 +83,7 @@ split
     if (settings["lvl44"] && current.Level == 28 &&
         (((old.BossHP > 0x40) && (old.BossHP2 >= 0 && current.BossHP2 < 0)) ||
         ((old.BossHP2 > 0x40) && (old.BossHP >= 0 && current.BossHP < 0))))
-        return trueж
+        return true;
         
     if (settings["lvl51"] && current.Level == 30 && old.EndStage == 0x12 && current.EndStage == 0x02) return true;
     if (settings["lvl52"] && current.Level == 32 && old.BossHP >= 0 && current.BossHP < 0) return true;
